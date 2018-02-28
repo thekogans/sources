@@ -20,7 +20,7 @@
   <project name = "make"
            branch = "trunk"
            version = "0.17.3"
-           SHA2-256 = "5a303a77d05e8ff63e6ba577b53901e652ad910b8c7d8b00ec3f00e6278f12cd"/>
+           SHA2-256 = "8ffd3d016082c52cc2f4ff5b8227f2f5904d3f0b7564e0e76583075aca9f9622"/>
   <toolchain name = "CppUnitXLite"
              version = "0.1.0"
              SHA2-256 = "0cc2227985b3227f3572b9ac41bd7e2b8f8c659bd262e05dc78b18dcdc11756f"/>
