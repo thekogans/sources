@@ -24,6 +24,9 @@
   <project name = "crypto"
            version = "0.3.0"
            SHA2-256 = "775a8e921c9e9afbbdd4de7f50cf9edf554370e8ae8e57b592b531faa565d781"/>
+  <project name = "stream"
+           version = "0.11.0"
+           SHA2-256 = "65939c462a2a1ac0aac89e852784d02d0f9d8e67aa82059321d7f21deafb0325"/>
   <toolchain name = "CppUnitXLite"
              version = "0.1.0"
              SHA2-256 = "0cc2227985b3227f3572b9ac41bd7e2b8f8c659bd262e05dc78b18dcdc11756f"/>
