@@ -21,6 +21,9 @@
            branch = "trunk"
            version = "0.17.3"
            SHA2-256 = "8ffd3d016082c52cc2f4ff5b8227f2f5904d3f0b7564e0e76583075aca9f9622"/>
+  <project name = "crypto"
+           version = "0.3.0"
+           SHA2-256 = "775a8e921c9e9afbbdd4de7f50cf9edf554370e8ae8e57b592b531faa565d781"/>
   <toolchain name = "CppUnitXLite"
              version = "0.1.0"
              SHA2-256 = "0cc2227985b3227f3572b9ac41bd7e2b8f8c659bd262e05dc78b18dcdc11756f"/>
@@ -184,14 +187,14 @@
   <toolchain name = "openssl_crypto"
              version = "1.0.2"
              file = "thekogans_openssl-1.0.2"
-             SHA2-256 = "8683036a4de8246318efe0051c0b4455173aaf2d07680d52aa20e568282db5cb"/>
+             SHA2-256 = "c0352a0957951dcd792b44981c789718cb772cff66b903ce2178f4b19c343e8f"/>
   <toolchain name = "openssl_ssl"
              version = "1.0.2"
              file = "thekogans_openssl-1.0.2"
-             SHA2-256 = "8683036a4de8246318efe0051c0b4455173aaf2d07680d52aa20e568282db5cb"/>
+             SHA2-256 = "c0352a0957951dcd792b44981c789718cb772cff66b903ce2178f4b19c343e8f"/>
   <toolchain name = "openssl"
              version = "1.0.2"
-             SHA2-256 = "8683036a4de8246318efe0051c0b4455173aaf2d07680d52aa20e568282db5cb"/>
+             SHA2-256 = "c0352a0957951dcd792b44981c789718cb772cff66b903ce2178f4b19c343e8f"/>
   <toolchain name = "picohttpparser"
              version = "0.1.0"
              SHA2-256 = "83f496d02d89b45d90a7690b1004f7352a5b653a0fc8e86bec65460b6344a143"/>
