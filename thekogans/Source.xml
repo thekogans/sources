@@ -1,5 +1,5 @@
 <source organization = "thekogans"
-        url = "https://www.thekogans.net"
+        url = "https://raw.github.com/ch00ch00man/sources/master"
         schema_version = "1">
   <project name = "util"
            branch = "trunk"
