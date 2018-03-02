@@ -210,7 +210,7 @@
              SHA2-256 = "2632e9777599c286c9e87811cc5245e4bd7de171f00e82bfc9d675d6baa391ab"/>
   <toolchain name = "turbojpeg"
              version = "1.5.2"
-             SHA2-256 = "8799c66f467ab0feed19eb02f49188816091b08aeb939d2309208560ba34a114"/>
+             SHA2-256 = "3eb58c042673f755911cd34fbffbc30e52bb382c0ce0347215ee6b8543e2c305"/>
   <toolchain name = "xerces"
              version = "3.2.0"
              SHA2-256 = "221bf60181683bf02004dc55904759c09f407dd6367092dfb43d4a6577428685"/>
