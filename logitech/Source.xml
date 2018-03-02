@@ -1,0 +1,25 @@
+<source organization = "logitech"
+        url = "https://raw.github.com/ch00ch00man/sources/master"
+        schema_version = "1">
+  <toolchain name = "gtest"
+             version = "1.7.0"
+             SHA2-256 = "7e8957de4b6ed3eb9c4a127f6f9435560bec1cd394e769c9bc427b7269d97e35"/>
+  <toolchain name = "gtestmain"
+             version = "1.7.0"
+             SHA2-256 = "b0bbbc4da14b0cba5b4e4c4e17b77c0299091076fb2d80b62c9673fead9c452f"/>
+  <toolchain name = "gmock"
+             version = "1.7.0"
+             SHA2-256 = "376c6d1f2a2e7b27e7f366ac571d2437927bc5f9ef40c8777d539d34dd5ad870"/>
+  <toolchain name = "gmockmain"
+             version = "1.7.0"
+             SHA2-256 = "7e6543aefa49a75b8f3cabd365704ef2b03bddb8461dbd99181bfb8fe92e3bbf"/>
+  <toolchain name = "pubnub"
+             version = "2.2.0"
+             SHA2-256 = "48116e1731be41b9bcb69f6a1245478b1378b8505040269f624f3dcf194e7a4a"/>
+  <toolchain name = "jsoncpp"
+             version = "1.8.0"
+             SHA2-256 = "f6ded172d13bb9fa43770d86af7e6e839888f7ab45d67e7dbd6884144343d4dd"/>
+  <toolchain name = "cpprestsdk"
+             version = "2.9.0"
+             SHA2-256 = "ac2c77671161c659a5c93eed79088cb843071e135ca1311ae8967e8575d3408b"/>
+</source>
