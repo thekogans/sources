@@ -178,7 +178,7 @@
              SHA2-256 = "20d592c88ff89d20e5de8f4f48f6ed3f5deecfc35b1a518d04f00d296d03c5e4"/>
   <toolchain name = "nasm"
              version = "2.13.1"
-             SHA2-256 = "4abaf4e1c4ea966365ed17f8fecaf285806ab6e72774503ef3d6c53764adb969"/>
+             SHA2-256 = "2b51781118b5396b57cf6b506488464e5c8d8ca10714c036f555444889473e4e"/>
   <toolchain name = "openssl_crypto"
              version = "1.0.2"
              file = "thekogans_openssl-1.0.2"
