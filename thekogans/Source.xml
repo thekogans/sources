@@ -177,6 +177,9 @@
              file = "gnu_make-4.2.1"
              SHA2-256 = "20d592c88ff89d20e5de8f4f48f6ed3f5deecfc35b1a518d04f00d296d03c5e4"/>
   <toolchain name = "nasm"
+             version = "2.13.3"
+             SHA2-256 = "128ab9a609a54a7e0748cdea99aa31ec08cb1ec5c45eee03a9f95377916f5177"/>
+  <toolchain name = "nasm"
              version = "2.13.1"
              SHA2-256 = "c7c702452797069a19d489fe4be1bfac72dda0fb6ac7eb1520319fae776d01e7"/>
   <toolchain name = "openssl_crypto"
