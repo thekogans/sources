@@ -168,7 +168,7 @@
              SHA2-256 = "b61d963be0323f532eadc835013b5ece501db5062019b9c60d9bc1ce2cc798f0"/>
   <toolchain name = "curl"
              version = "7.56.0"
-             SHA2-256 = "554c900a96d5a410bd23ac30df8ccf971a2b597aa281fb9acfe7c1c12c2f1d8a"/>
+             SHA2-256 = "72c3626992292bd3a78db4adc0d098ac9ee00a25cb22725d4955d03b34a2eb1a"/>
   <toolchain name = "freetype"
              version = "2.8.1"
              SHA2-256 = "8c6a778db78e7f38b97feaf4b94f96fd37ab5264ba3e70eb056c1e6f1dfe70fd"/>
