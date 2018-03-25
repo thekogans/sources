@@ -195,7 +195,7 @@
              SHA2-256 = "83f496d02d89b45d90a7690b1004f7352a5b653a0fc8e86bec65460b6344a143"/>
   <toolchain name = "png"
              version = "1.6.32"
-             SHA2-256 = "1b93c3291be065f72b8fe4b13053a09fb2820779f93595fc1011aa05b9f26479"/>
+             SHA2-256 = "1fb65a749440c67c035a278f745c90b9148b4a792fb41c7b9ded9bb8f2bda28c"/>
   <toolchain name = "pugixml"
              version = "1.8.0"
              SHA2-256 = "b03d8bca34a0a0bcd1bb025e9fa828a545135fcfa2e291d357ac4db860a109e1"/>
