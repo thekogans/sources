@@ -219,7 +219,7 @@
              SHA2-256 = "221bf60181683bf02004dc55904759c09f407dd6367092dfb43d4a6577428685"/>
   <toolchain name = "yuv"
              version = "1.6.73"
-             SHA2-256 = "66dba2849e60b2bdf2d10d746fa277dd401f16856a9c1bc6ab98cc396aee8956"/>
+             SHA2-256 = "cb55f09ab18633736b2e1c85a6898b88cf0ec14f6e2466cd604b8054c061f86c"/>
   <toolchain name = "zlib"
              version = "1.2.8"
              SHA2-256 = "b19de0ab1aa386ec24ce62e6e1196092e5f7dcc705ef6ca91c05c5b5eb554624"/>
