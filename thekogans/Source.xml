@@ -209,6 +209,9 @@
              version = "3.20.1"
              SHA2-256 = "2632e9777599c286c9e87811cc5245e4bd7de171f00e82bfc9d675d6baa391ab"/>
   <toolchain name = "turbojpeg"
+             version = "1.5.9"
+             SHA2-256 = "f0d4f51fe402effe578b2d7b8d29743a8edda481e86eeec59a80073561d1920a"/>
+  <toolchain name = "turbojpeg"
              version = "1.5.2"
              SHA2-256 = "3eb58c042673f755911cd34fbffbc30e52bb382c0ce0347215ee6b8543e2c305"/>
   <toolchain name = "xerces"
