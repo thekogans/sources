@@ -4,15 +4,9 @@
   <project name = "crypto"
            version = "0.4.0"
            SHA2-256 = "078bdf9693138f2f4e9812810ce8cf140dda5fea49a3620c9d78b2d8011c3c03"/>
-  <project name = "crypto"
-           version = "0.3.0"
-           SHA2-256 = "775a8e921c9e9afbbdd4de7f50cf9edf554370e8ae8e57b592b531faa565d781"/>
   <project name = "stream"
            version = "0.12.0"
            SHA2-256 = "cd75d1b7ee12454f3e6973041925af61c8cd1d7db9ea01712ed94ec72226651c"/>
-  <project name = "stream"
-           version = "0.11.0"
-           SHA2-256 = "65939c462a2a1ac0aac89e852784d02d0f9d8e67aa82059321d7f21deafb0325"/>
   <project name = "util"
            version = "0.22.0"
            SHA2-256 = "d8a9a7536212678ffa3717b2150f6c635fc1180b3b5fa35415d6c6232ad4e48a"/>
@@ -25,9 +19,6 @@
   <project name = "packet"
            version = "0.2.0"
            SHA2-256 = "d1fa294f4a2b23c146399f14c5b40f2cc667e678905060daae129dad50a50fde"/>
-  <project name = "packet"
-           version = "0.1.0"
-           SHA2-256 = "2d57f116a6c06fc4fd0b7a17b825d1c07b8c84e945c6b44f7d94c39b14152d77"/>
   <toolchain name = "CppUnitXLite"
              version = "0.1.0"
              SHA2-256 = "0cc2227985b3227f3572b9ac41bd7e2b8f8c659bd262e05dc78b18dcdc11756f"/>
