@@ -8,6 +8,9 @@
            version = "0.11.0"
            SHA2-256 = "65939c462a2a1ac0aac89e852784d02d0f9d8e67aa82059321d7f21deafb0325"/>
   <project name = "util"
+           version = "0.22.0"
+           SHA2-256 = "d8a9a7536212678ffa3717b2150f6c635fc1180b3b5fa35415d6c6232ad4e48a"/>
+  <project name = "util"
            version = "0.21.1"
            SHA2-256 = "1bd2e2ba41f39f992f1746b45d2084e730a97f8cd6df0bade68913b72a531fc9"/>
   <project name = "make"
