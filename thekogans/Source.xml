@@ -30,7 +30,7 @@
              SHA2-256 = "7fbbc6e7c07b8ba665452b0161be4614946ef8ac94baa8c6b767e0de7e60e9e5"/>
   <toolchain name = "argon2"
              version = "0.1.0"
-             SHA2-256 = "e2ca319dd18f7c1ada2fb080b99dc906399e0a89ab39288c478e5e24679e4e75"/>
+             SHA2-256 = "ff479eba94ac860a79003fa7e61526574b807c345fac20e8e2c2a451be107b96"/>
   <toolchain name = "boost"
              version = "1.60.0"
              SHA2-256 = "1b82d253b061674ceede74e6bd76c1db61bc069f6325e2693a27ea299188e60c"/>
