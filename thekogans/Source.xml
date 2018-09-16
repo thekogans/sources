@@ -30,10 +30,10 @@
              SHA2-256 = "7fbbc6e7c07b8ba665452b0161be4614946ef8ac94baa8c6b767e0de7e60e9e5"/>
   <toolchain name = "argon2"
              version = "0.1.0"
-             SHA2-256 = "7482f029d82479fb2f4df453bd08b1fb697f780a1fa95f168b4deb223a69f09f"/>
+             SHA2-256 = "0d2da7a016548abbf881d111817950cca9ba69582448a0a15f3ea005b6c19f70"/>
   <toolchain name = "blake2"
              version = "0.1.0"
-             SHA2-256 = "29820d7d47a8eccb6d7e22bbe9a79048cec82df0e5cb9ed368323fdffe10f553"/>
+             SHA2-256 = "d66c0dbe33a1f9dc2bf0fdfcee227c6edd38dac41736c066538f5334a28b89d1"/>
   <toolchain name = "boost"
              version = "1.60.0"
              SHA2-256 = "1b82d253b061674ceede74e6bd76c1db61bc069f6325e2693a27ea299188e60c"/>
@@ -207,11 +207,11 @@
              SHA2-256 = "1fb65a749440c67c035a278f745c90b9148b4a792fb41c7b9ded9bb8f2bda28c"/>
   <toolchain name = "protobuf"
              version = "3.6.1"
-             SHA2-256 = "d02ef4705cd3f2c5579e4c4d701ae9b4728635af616f0e99a901e5a76c0f7f65"/>
+             SHA2-256 = "fd441b0ee7f64f912d2534916b510be320da56659eb54d686c39b220fe4c8982"/>
   <toolchain name = "protoc"
              version = "3.6.1"
              file = "thekogans_protobuf-3.6.1"
-             SHA2-256 = "d02ef4705cd3f2c5579e4c4d701ae9b4728635af616f0e99a901e5a76c0f7f65"/>
+             SHA2-256 = "fd441b0ee7f64f912d2534916b510be320da56659eb54d686c39b220fe4c8982"/>
   <toolchain name = "pugixml"
              version = "1.8.0"
              SHA2-256 = "b03d8bca34a0a0bcd1bb025e9fa828a545135fcfa2e291d357ac4db860a109e1"/>
