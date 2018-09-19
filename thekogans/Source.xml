@@ -207,11 +207,11 @@
              SHA2-256 = "1fb65a749440c67c035a278f745c90b9148b4a792fb41c7b9ded9bb8f2bda28c"/>
   <toolchain name = "protobuf"
              version = "3.6.1"
-             SHA2-256 = "c693af30854cd81e37b23a2d72503ac5c52f6699bb8f2af7350945d4267f071a"/>
+             SHA2-256 = "f8a80a0956c01bc207d63442ac700557d77f8cb2232ec9518912587369cc7fac"/>
   <toolchain name = "protoc"
              version = "3.6.1"
              file = "thekogans_protobuf-3.6.1"
-             SHA2-256 = "c693af30854cd81e37b23a2d72503ac5c52f6699bb8f2af7350945d4267f071a"/>
+             SHA2-256 = "f8a80a0956c01bc207d63442ac700557d77f8cb2232ec9518912587369cc7fac"/>
   <toolchain name = "pugixml"
              version = "1.8.0"
              SHA2-256 = "b03d8bca34a0a0bcd1bb025e9fa828a545135fcfa2e291d357ac4db860a109e1"/>
