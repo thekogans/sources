@@ -14,6 +14,9 @@
            version = "0.22.0"
            SHA2-256 = "d8a9a7536212678ffa3717b2150f6c635fc1180b3b5fa35415d6c6232ad4e48a"/>
   <project name = "make"
+           version = "0.20.0"
+           SHA2-256 = "abc2b4410b328cbce5eb1f880a73805cc54d85f2eb63c85d54b59ae5ff4782b4"/>
+  <project name = "make"
            version = "0.19.1"
            SHA2-256 = "82418bb74ed7d402f990a194f130f2dd2c908808960199b27e5631166c411a57"/>
   <project name = "make"
