@@ -234,7 +234,7 @@
              SHA2-256 = "e0e25ae8947f8dd0d8b788917cc3295511ec6d9580fbb65b56bd88179075b1d5"/>
   <toolchain name = "picohttpparser"
              version = "0.1.0"
-             SHA2-256 = "83f496d02d89b45d90a7690b1004f7352a5b653a0fc8e86bec65460b6344a143"/>
+             SHA2-256 = "30fc7cc3f16b0194e6236d44ff0a1775b1bfdbdd8e6cdfc55c0abf3b6c6c1e57"/>
   <toolchain name = "png"
              version = "1.6.32"
              SHA2-256 = "1fb65a749440c67c035a278f745c90b9148b4a792fb41c7b9ded9bb8f2bda28c"/>
