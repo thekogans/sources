@@ -258,6 +258,9 @@
              file = "thekogans_protobuf-3.6.1"
              SHA2-256 = "d3505b001ebc87883ee344270618f89f1c815dd3059c8b9191344ffb943ea439"/>
   <toolchain name = "pugixml"
+             version = "1.9.0"
+             SHA2-256 = "f1406fd9f2ac43d4982a1c2108c4516dda99b74c3d29a43f4b21e2df0e6db3a9"/>
+  <toolchain name = "pugixml"
              version = "1.8.0"
              SHA2-256 = "ede2617cf25f82740cd6d1b6fdf53315c67b75fbc2179ebe09871c72f3940fb7"/>
   <toolchain name = "rapidjson"
