@@ -280,7 +280,7 @@
              SHA2-256 = "ec2dc240b7a0f4b36d39fd36854a1d6d33d6c3bfaf3a2580b0614dddc8d6c4d6"/>
   <toolchain name = "xerces"
              version = "3.2.2"
-             SHA2-256 = "364d2ae3a55c8de418d3ad2b74b08286cd032c46a195db82d91f80a6c7f99e2d"/>
+             SHA2-256 = "8f43c6dfe4c1a5d7de74aab01f8cf8106e66d8c49e5432fdf294ebdb4e1d181e"/>
   <toolchain name = "xerces"
              version = "3.2.0"
              SHA2-256 = "09768bffa15c951e5a991e6a5e49f3dc01f52d1d0c73444b7a0cc9892d4b2f9b"/>
