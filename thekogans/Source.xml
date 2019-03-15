@@ -126,7 +126,7 @@
              SHA2-256 = "0d2da7a016548abbf881d111817950cca9ba69582448a0a15f3ea005b6c19f70"/>
   <toolchain name = "blake2"
              version = "0.1.0"
-             SHA2-256 = "d66c0dbe33a1f9dc2bf0fdfcee227c6edd38dac41736c066538f5334a28b89d1"/>
+             SHA2-256 = "06e0f48b6cbf02b22f753ee3a020b0c6448a31acfb9453dd7b95a42e51fb15ec"/>
   <toolchain name = "boost"
              version = "1.60.0"
              SHA2-256 = "c750d481bed8c5ee0d45847b41c9ebe3cb6a04bc9d6b21afba5bcfe08560b71a"/>
