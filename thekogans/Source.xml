@@ -125,6 +125,9 @@
            version = "0.6.0"
            SHA2-256 = "9b3930cfbe4dadf2593200139dd6ea11adebc88115c6fc0e94d08bdec4b47ee6"/>
   <project name = "packet"
+           version = "0.2.1"
+           SHA2-256 = "245de7f20854a7db078fe3248ab7afd20007d3c7d4da0b81e18abfc4caefb761"/>
+  <project name = "packet"
            version = "0.2.0"
            SHA2-256 = "d1fa294f4a2b23c146399f14c5b40f2cc667e678905060daae129dad50a50fde"/>
   <toolchain name = "CppUnitXLite"
