@@ -8,6 +8,9 @@
            version = "0.12.0"
            SHA2-256 = "cd75d1b7ee12454f3e6973041925af61c8cd1d7db9ea01712ed94ec72226651c"/>
   <project name = "util"
+           version = "0.30.0"
+           SHA2-256 = "404912ee6a0905a3f5f09ac3976a98528b87ca093e2f83937f681b7b52ff3536"/>
+  <project name = "util"
            version = "0.29.2"
            SHA2-256 = "7239f7b96e92e0b3e9852d9ff88675f75f324c1f29551fb5ee8535586895304f"/>
   <project name = "util"
