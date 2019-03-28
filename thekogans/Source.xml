@@ -2,6 +2,9 @@
         url = "https://raw.github.com/thekogans/sources/master"
         schema_version = "1">
   <project name = "crypto"
+           version = "0.9.1"
+           SHA2-256 = "aa03df6fef729d447c4fb6af2dee5187ae3fec2125dda687164d92da6017498e"/>
+  <project name = "crypto"
            version = "0.4.0"
            SHA2-256 = "078bdf9693138f2f4e9812810ce8cf140dda5fea49a3620c9d78b2d8011c3c03"/>
   <project name = "stream"
