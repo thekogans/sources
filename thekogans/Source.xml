@@ -343,7 +343,7 @@
              SHA2-256 = "6e106ee4eed69d7274bd28da9e8a63288bcb7481a2362323984441a77f5f2ae2"/>
   <toolchain name = "websocketpp"
              version = "0.8.1"
-             SHA2-256 = "ec2dc240b7a0f4b36d39fd36854a1d6d33d6c3bfaf3a2580b0614dddc8d6c4d6"/>
+             SHA2-256 = "dab709c9a052d591f4f07a7e14fb372635ab1a4021706ade5d40ffafa1252984"/>
   <toolchain name = "xerces"
              version = "3.2.2"
              SHA2-256 = "fad78f9d69d7ca447742df8008e3628ee2a56f664f43588f8b500ddcaf28c29d"/>
