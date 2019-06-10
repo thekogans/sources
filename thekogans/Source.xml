@@ -277,7 +277,7 @@
              version = "1.60.0"
              file = "thekogans_boost-1.60.0"
              SHA2-256 = "c750d481bed8c5ee0d45847b41c9ebe3cb6a04bc9d6b21afba5bcfe08560b71a"/>
-  <toolchain name = "boost"
+  <!-- <toolchain name = "boost"
              version = "1.70.0"
              SHA2-256 = "f786f6a21c4e4bf7f3a165915b6fd3cdc8e873f07cb39585db9af26ffd898321"/>
   <toolchain name = "boost_atomic"
@@ -411,7 +411,7 @@
   <toolchain name = "boost_wserialization"
              version = "1.70.0"
              file = "thekogans_boost-1.70.0"
-             SHA2-256 = "f786f6a21c4e4bf7f3a165915b6fd3cdc8e873f07cb39585db9af26ffd898321"/>
+             SHA2-256 = "f786f6a21c4e4bf7f3a165915b6fd3cdc8e873f07cb39585db9af26ffd898321"/> -->
   <toolchain name = "bzip2"
              version = "1.0.6"
              SHA2-256 = "cc1df6c0bd2ca1773c391976ad8778f1474805334d12d5b2da064a5bd638f588"/>
