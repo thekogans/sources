@@ -487,7 +487,7 @@
              SHA2-256 = "cbf76c29dbcb54cfe34d2219efae14c346bdb016d9e63629947c8396e6671abb"/>
   <toolchain name = "yuv"
              version = "1.7.34"
-             SHA2-256 = "95340b2dda6b9d9f8e8182995639c941ba73fc902ad5c9f91d47a582a52b1b85"/>
+             SHA2-256 = "5b8a95c81f049a41404e2372e0a63f4a9fd9623122b0eb4ecf840767b37b5856"/>
   <toolchain name = "yuv"
              version = "1.6.73"
              SHA2-256 = "50aa66dec6abedbf893ea2c6b7e2a79fd20ca1bf4f8273a392238febd4f438da"/>
