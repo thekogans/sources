@@ -471,6 +471,9 @@
              version = "3.20.1"
              SHA2-256 = "6c88700c8aa29cb87a302017cdfe9047ddae9283e197ad57f9dc121eedef01a0"/>
   <toolchain name = "turbojpeg"
+             version = "2.0.3"
+             SHA2-256 = "c9d1491fea273edd73c5b0bf7658c52e9d9a38df25ff81baee0b86b63a7b392c"/>
+  <toolchain name = "turbojpeg"
              version = "1.5.9"
              SHA2-256 = "4c1100ccefaba2f044d2bbf091a51f252910cde236814e46b568dd7c5b8f817e"/>
   <toolchain name = "uriparser"
