@@ -11,6 +11,9 @@
            version = "0.4.0"
            SHA2-256 = "078bdf9693138f2f4e9812810ce8cf140dda5fea49a3620c9d78b2d8011c3c03"/>
   <project name = "stream"
+           version = "0.14.0"
+           SHA2-256 = "cf37a102f005bc8fa713aad8baad4b71f49dd4cc3f26b47829ea1a2d2721782c"/>
+  <project name = "stream"
            version = "0.12.3"
            SHA2-256 = "b39f993c7d93c92eb1f1857e30e5d903763b9a74c4c270bfd2e06bb89f5945ed"/>
   <project name = "stream"
