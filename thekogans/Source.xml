@@ -134,6 +134,9 @@
            version = "0.6.0"
            SHA2-256 = "9b3930cfbe4dadf2593200139dd6ea11adebc88115c6fc0e94d08bdec4b47ee6"/>
   <project name = "packet"
+           version = "0.4.0"
+           SHA2-256 = "5fdbf5e6792ce7c4b3d49cb192f9b91b55cee7daed4f254b1615e4ea350b7d4c"/>
+  <project name = "packet"
            version = "0.2.1"
            SHA2-256 = "245de7f20854a7db078fe3248ab7afd20007d3c7d4da0b81e18abfc4caefb761"/>
   <project name = "packet"
