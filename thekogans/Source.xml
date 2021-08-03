@@ -328,6 +328,17 @@
   <toolchain name = "openssl"
              version = "1.0.2"
              SHA2-256 = "34f1a3085d14c7922579e5402dbd43bf37d7740077faebac9418d9e956c04c11"/>
+  <toolchain name = "openssl_crypto"
+             version = "1.1.1"
+             file = "thekogans_openssl-1.1.1"
+             SHA2-256 = "1dc0398a355e998a7b552c4fd5897ad662da02eeecb11d9455b41870b807212d"/>
+  <toolchain name = "openssl_ssl"
+             version = "1.1.1"
+             file = "thekogans_openssl-1.1.1"
+             SHA2-256 = "1dc0398a355e998a7b552c4fd5897ad662da02eeecb11d9455b41870b807212d"/>
+  <toolchain name = "openssl"
+             version = "1.1.1"
+             SHA2-256 = "1dc0398a355e998a7b552c4fd5897ad662da02eeecb11d9455b41870b807212d"/>
   <toolchain name = "picohttpparser"
              version = "0.1.0"
              SHA2-256 = "05f1e82b95d76d3532bbce0a3ec1a129db7abad37df635041a4b498ebe4c44d6"/>
