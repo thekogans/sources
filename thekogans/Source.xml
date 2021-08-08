@@ -328,14 +328,14 @@
   <toolchain name = "openssl_crypto"
              version = "1.1.1"
              file = "thekogans_openssl-1.1.1"
-             SHA2-256 = "f90ebb4464f5440bff7d6ca9cfcd507108a22b0d3216928d6c8575e8dea1f14d"/>
+             SHA2-256 = "39d7c24d86a1d56dba2c66af3693b578d047f07a8d5d09ee17b3805492b1599a"/>
   <toolchain name = "openssl_ssl"
              version = "1.1.1"
              file = "thekogans_openssl-1.1.1"
-             SHA2-256 = "f90ebb4464f5440bff7d6ca9cfcd507108a22b0d3216928d6c8575e8dea1f14d"/>
+             SHA2-256 = "39d7c24d86a1d56dba2c66af3693b578d047f07a8d5d09ee17b3805492b1599a"/>
   <toolchain name = "openssl"
              version = "1.1.1"
-             SHA2-256 = "f90ebb4464f5440bff7d6ca9cfcd507108a22b0d3216928d6c8575e8dea1f14d"/>
+             SHA2-256 = "39d7c24d86a1d56dba2c66af3693b578d047f07a8d5d09ee17b3805492b1599a"/>
   <toolchain name = "openssl_crypto"
              version = "1.0.2"
              file = "thekogans_openssl-1.0.2"
